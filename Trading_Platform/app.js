@@ -19,6 +19,7 @@ app.listen(3000, () => {
     console.log("Server running on port 3000");
 })
 
+// Example API Account Data
 // {
 //     id: '4c8a5d89-9f7f-44cf-988a-2eecb082cdef',
 //     account_number: 'PA3L4TLY4TP3',
